@@ -4,28 +4,40 @@
   
 📨 Email : vansh.singhal@hotmail.com  
   
-Objective  
+## Objective  
   
 My primary Objective is to learn and implement latest technological skills to enhance my expertise in full-stack development. Seeking an entrylevel role where I can apply these skills alongside problemsolving abilities and my passion for innovation to contribute to organizational and personal development.  
   
-Summary  
+## Summary  
   
 High-Performance and results driven full stack developer with a passion to learn and enhance expertise over the web-development through projects and hands-on-experience. Recognized for team-oriented mentality, able to learn and adapt to changing environments.  
+
+---
   
-Skills      
+## Skills      
       
-Frontend:    
+1. Frontend:    
     - Languages: HTML 5, CSS 3, JavaScript    
-    - Frameworks/Libraries: Bootstrap, Tailwind, EJS, React.js     
-Web Services: GitHub, Amazon Web Services    
-Backend:      
+    - Frameworks/Libraries: Bootstrap, Tailwind, EJS, React.js
+           
+2. Web Services: 
+    - GitHub
+    - Amazon Web Services
+      
+3. Backend:      
     - Languages: Python, Java, C++    
     - Frameworks/Libraries: Node.js, Express.js, SpringBoot    
     - Databases: MySQL, MongoDB, Firebase    
+
+---
   
-Hobbies : Music, Guitar Playing, Gaming and playing Basketball    
+## Hobbies
+    - Music
+    - Guitar Playing 
+    - Gaming
+    - Playing Basketball    
   
-Looking For    
+## Looking For    
   
 Opportunities to work on challenging and impactful projects.    
 A collaborative and supportive team environment.    
